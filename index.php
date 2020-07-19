@@ -341,6 +341,7 @@ include 'includes/wallet.php';
 </body>
 
 </html>
+	
 <?php
 	}
 	else
