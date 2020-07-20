@@ -4,7 +4,7 @@
 
 -- /*mysql://bd5e572a99bd72:d30a54e4@us-cdbr-east-02.cleardb.com/heroku_bbd3b6878b9f671?reconnect=true*/
 
--- Host: us-cdbr-east-02.cleardb.com
+-- Host: 127.0.0.1
 -- Generation Time: Mar 30, 2017 at 05:22 PM
 -- Server version: 10.1.21-MariaDB
 -- PHP Version: 5.6.30
@@ -19,7 +19,7 @@ SET time_zone = "+00:00";
 /*!40101 SET NAMES utf8mb4 */;
 
 --
--- Database: `heroku_bbd3b6878b9f671`
+-- Database: `food`
 --
 
 -- --------------------------------------------------------
